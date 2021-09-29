@@ -8,8 +8,6 @@ Queremos entender melhor seu jeito de atacar problemas desafiadores em amostras 
 
 Recomendamos ainda que o teste seja feito em no máximo 4 horas (não se preocupe em respostas muito detalhadas ou em complexidades que simplesmente não funcionariam no mundo real!).
 
-As entregas devem ser via envio de link para um github público (ou similar) o qual contenha sua solução para o cenário a seguir. Favor não citar a Lambda3 em seu repositório.
-
 ## Cenário
 
 No seguinte cenário você é a pessoa analista por trás do projeto de data ops junto a uma grande indústria norte-americana.
